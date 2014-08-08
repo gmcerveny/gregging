@@ -1,5 +1,8 @@
-* Primitives for representing notes
+# Primitives for representing notes
+
+* Pitch
   * scales
     * degrees
   * intervals
   * octaves
+* Duration
