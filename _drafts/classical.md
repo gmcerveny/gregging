@@ -1,1 +1,0 @@
-http://www.ted.com/talks/benjamin_zander_on_music_and_passion
