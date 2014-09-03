@@ -1,3 +1,7 @@
+---
+title: CCRMA Music Controller Workshop Summary
+---
+
 The CCRMA summer workshop on New Music Controllers was awesome. This was my first opportunity to visit the computer music department at Stanford, and it's like a temple dedicated all the things I love.
 
 A few high points I took away from the course:
